@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ea242fc0f55bf87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "docs/notes/Test.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "2b6d20a7d2b5791c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/notes/Test1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/notes/Test.md",
+                "file": "docs/notes/Test1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/notes/Test.md",
+                "file": "docs/notes/Test1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/notes/Test.md"
+                "file": "docs/notes/Test1.md"
               }
             }
           }
@@ -146,19 +171,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8469782791698e35",
+  "active": "2b6d20a7d2b5791c",
   "lastOpenFiles": [
     "lib",
-    "lib/vis-9.0.4",
     "lib/vis-9.1.2",
-    "lib/tom-select",
     "lib/bindings",
     "lib/vis-9.1.2/vis-network.min.js",
     "lib/vis-9.1.2/vis-network.css",
-    "lib/tom-select/tom-select.css",
-    "lib/tom-select/tom-select.complete.min.js",
     "lib/vis-9.0.4/vis-network.min.js",
     "lib/vis-9.0.4/vis-network.css",
-    "docs/notes/Test.md"
+    "lib/tom-select/tom-select.css",
+    "lib/tom-select/tom-select.complete.min.js",
+    "lib/vis-9.0.4",
+    "lib/tom-select",
+    "docs/notes/Test.md",
+    "docs/notes/Test1.md",
+    "docs/index.md",
+    "site/assets/images/favicon.png",
+    "README.md",
+    "index.md.md"
   ]
 }

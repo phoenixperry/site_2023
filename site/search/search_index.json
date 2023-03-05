@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"notes/Test/","title":"Test","text":"<p>this is a test note</p>"}]}
